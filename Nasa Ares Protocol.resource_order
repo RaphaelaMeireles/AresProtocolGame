@@ -1,0 +1,27 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Font","order":5,"path":"folders/Font.yy",},
+    {"name":"Note","order":6,"path":"folders/Note.yy",},
+    {"name":"Object","order":2,"path":"folders/Object.yy",},
+    {"name":"Rooms","order":3,"path":"folders/Rooms.yy",},
+    {"name":"Script","order":7,"path":"folders/Script.yy",},
+    {"name":"Shader","order":8,"path":"folders/Shader.yy",},
+    {"name":"Sound","order":9,"path":"folders/Sound.yy",},
+    {"name":"Sprite","order":1,"path":"folders/Sprite.yy",},
+    {"name":"Cenarios","order":9,"path":"folders/Sprite/Cenarios.yy",},
+    {"name":"Personagens","order":8,"path":"folders/Sprite/Personagens.yy",},
+    {"name":"Status","order":6,"path":"folders/Sprite/Status.yy",},
+    {"name":"TileSet","order":4,"path":"folders/TileSet.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"oMovementVisor","order":1,"path":"objects/oMovementVisor/oMovementVisor.yy",},
+    {"name":"Console","order":4,"path":"sprites/Console/Console.yy",},
+    {"name":"sAmbiente","order":1,"path":"sprites/sAmbiente/sAmbiente.yy",},
+    {"name":"sComida","order":3,"path":"sprites/sComida/sComida.yy",},
+    {"name":"sEnergia","order":4,"path":"sprites/sEnergia/sEnergia.yy",},
+    {"name":"Sprite2","order":1,"path":"sprites/Sprite2/Sprite2.yy",},
+    {"name":"Sprite3","order":2,"path":"sprites/Sprite3/Sprite3.yy",},
+    {"name":"sRaioPreenchido","order":1,"path":"sprites/sRaioPreenchido/sRaioPreenchido.yy",},
+    {"name":"sVida","order":2,"path":"sprites/sVida/sVida.yy",},
+  ],
+}

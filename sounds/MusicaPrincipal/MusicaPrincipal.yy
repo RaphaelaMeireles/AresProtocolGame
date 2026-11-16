@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"MusicaPrincipal",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":3,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":177.68489,
+  "exportDir":"",
+  "name":"MusicaPrincipal",
+  "parent":{
+    "name":"Sound",
+    "path":"folders/Sound.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"MusicaPrincipal.mp3",
+  "volume":0.9,
+}

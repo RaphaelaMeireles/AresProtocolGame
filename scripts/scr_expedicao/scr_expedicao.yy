@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_expedicao",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_expedicao",
+  "parent":{
+    "name":"Script",
+    "path":"folders/Script.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
